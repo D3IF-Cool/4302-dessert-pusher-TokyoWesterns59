@@ -13,10 +13,10 @@
 // * See the License for the specific language governing permissions and
 // * limitations under the License.
 // */
-//
-//package com.example.android.dessertclicker
-//
-//import android.os.Handler
+
+package com.example.android.dessertclicker
+
+import android.os.Handler
 //import timber.log.Timber
 //import android.os.Looper
 ///**
